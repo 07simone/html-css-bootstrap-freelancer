@@ -1,0 +1,37 @@
+header{
+    height: 80px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.jumbotron{
+    height: 50rem;
+    background-color: green;
+}
+
+.banner{
+   
+    background-color: black;
+}
+.sfondi{
+    width: 100%;
+}
+.nav{
+    height: 30rem;
+    background-color: green;
+}
+.help{
+    height: 40rem;
+    background-color: yellow;
+}
+.footer{
+    height: 20rem;
+}
+.footer-top{
+    background-color: rgba(10, 79, 226, 0.781);
+    height: 15rem;
+}
+.footer-bottom{
+    background-color: rgb(25, 0, 255);
+    height: 5rem;
+}
