@@ -1,14 +1,16 @@
 header{
-    height: 80px;
+    
     background-color: blue;
-    text-align: center;
+    text-align: center; 
     color: white;
 }
 .jumbotron{
     height: 50rem;
     background-color: green;
 }
-
+.center{
+    align-items: center;
+}
 .banner{
    
     background-color: black;
