@@ -1,11 +1,10 @@
 header{
-    
     background-color: blue;
     text-align: center; 
     color: white;
 }
 .jumbotron{
-    height: 50rem;
+     height: 50rem;
     background-color: green;
 }
 .center{
@@ -17,6 +16,10 @@ header{
 }
 .sfondi{
     width: 100%;
+}
+.img-svg{
+    width: 50%;
+    height: 50%;
 }
 .nav{
     height: 30rem;
