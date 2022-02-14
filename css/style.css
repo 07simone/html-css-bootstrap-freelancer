@@ -12,6 +12,13 @@ header{
 .box{
     margin: 0 auto;
 }
+.testo{
+    height: 200px;
+}
+.form-control{
+    border: none;
+    border-bottom: 1px solid black;
+}
 .btn{
     background-color: green;
     border: 2px solid white;
@@ -24,10 +31,13 @@ header{
     background-color: green;
  
 }
+
 .sfondi{
     width: 100%;
 }
-
+.text-green{
+    color: green;
+}
 .nav{
     
     background-color: green;
